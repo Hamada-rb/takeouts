@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
-import Container from 'react-bootstrap/Container';
+import { Container, Row, Col } from "react-bootstrap";
 
 import Header from './components/Header.jsx';
 import Place from './layouts/Place.jsx';
@@ -23,9 +23,15 @@ class App extends Component {
       <div className="app">
         <Header />
           <Container className="mt-5">
-            {this.state.places.map((place) => {
-              return <Place place={place}/>;
-            })}
+            <Row>
+                {this.state.places.map((place) => {
+                  return (
+                    <Col xs={12} sm={4} md={4} lg={4} className="mt-3">
+                      <Place place={place}/>
+                    </Col>
+                  );
+                })}
+          </Row>
         </Container>
       </div>
     );
