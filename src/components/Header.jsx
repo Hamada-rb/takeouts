@@ -5,7 +5,7 @@ class Header extends React.Component {
     render() {
         return (
             <Navbar className="bg-primary">
-                <Navbar.Brand href="/" className="text-white">浜田市内のテイクアウト対応店</Navbar.Brand>
+                <Navbar.Brand href="/" className="text-white">TekeOut's</Navbar.Brand>
             </Navbar>
         );
     }
