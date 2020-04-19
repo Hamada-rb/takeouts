@@ -24,9 +24,11 @@ class Place extends React.Component {
                 <Card.Body>
                     <Card.Title>{this.state.name}</Card.Title>
                     <Card.Text>
-                        {this.state.name}
+                        <p>住所:{this.state.name}</p>
+                        <p>電話番号:{this.state.phone}</p>
+                        <p>営業時間:{this.state.time}</p>
                     </Card.Text>
-                    <Button variant="primary">Webサイトを見にいく</Button>
+                    <a href={this.state.url} className="btn btn-info text-white">Webサイトを見にいく</a>
                 </Card.Body>
             </Card>
         );
