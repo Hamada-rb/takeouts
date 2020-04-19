@@ -6,6 +6,7 @@ import './App.css';
 import { Container, Row, Col } from "react-bootstrap";
 
 import Header from './components/Header.jsx';
+import Footer from './components/Footer.jsx';
 import Place from './layouts/Place.jsx';
 
 import places from './data/places.json';
@@ -33,6 +34,7 @@ class App extends Component {
                 })}
           </Row>
         </Container>
+        <Footer />
       </div>
     );
   };
