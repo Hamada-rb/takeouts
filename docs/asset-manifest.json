@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.4f0dafe9.chunk.js",
-    "main.js.map": "/static/js/main.4f0dafe9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6a1bbc2b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6a1bbc2b.js.map",
-    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.a7ebab85.chunk.js": "/static/js/2.a7ebab85.chunk.js",
-    "static/js/2.a7ebab85.chunk.js.map": "/static/js/2.a7ebab85.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.72724b3cf24daa39179f497489ec1682.js": "/precache-manifest.72724b3cf24daa39179f497489ec1682.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a7ebab85.chunk.js.LICENSE.txt": "/static/js/2.a7ebab85.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/takeouts/static/css/main.5f361e03.chunk.css",
+    "main.js": "/takeouts/static/js/main.1b0947fd.chunk.js",
+    "main.js.map": "/takeouts/static/js/main.1b0947fd.chunk.js.map",
+    "runtime-main.js": "/takeouts/static/js/runtime-main.5f871cc6.js",
+    "runtime-main.js.map": "/takeouts/static/js/runtime-main.5f871cc6.js.map",
+    "static/css/2.de424728.chunk.css": "/takeouts/static/css/2.de424728.chunk.css",
+    "static/js/2.a7ebab85.chunk.js": "/takeouts/static/js/2.a7ebab85.chunk.js",
+    "static/js/2.a7ebab85.chunk.js.map": "/takeouts/static/js/2.a7ebab85.chunk.js.map",
+    "index.html": "/takeouts/index.html",
+    "precache-manifest.490a3ff1ac17816774124632ceef6b96.js": "/takeouts/precache-manifest.490a3ff1ac17816774124632ceef6b96.js",
+    "service-worker.js": "/takeouts/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/takeouts/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/takeouts/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a7ebab85.chunk.js.LICENSE.txt": "/takeouts/static/js/2.a7ebab85.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/takeouts/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a1bbc2b.js",
+    "static/js/runtime-main.5f871cc6.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.a7ebab85.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4f0dafe9.chunk.js"
+    "static/js/main.1b0947fd.chunk.js"
   ]
 }
